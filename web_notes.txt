@@ -1,0 +1,27 @@
+Web Server notes:
+Dynamic site - One were you log in and are served content unique to you. Information is stored in a database behind the scenes, which requires the use of a progamming language to function
+Static site - Same content represented to every visitor (only html, css and Javascript based)
+Front-end - synonymous with "client-side". It's everything you see in your browser
+Back-end - "server-side", interacts with a DB, utilizes backend programming languages
+
+- To access a website the files need to be stored on a computer that is constantly online - this "computer" is know as a web server
+Webservers take requests from clients using HTTP protocol
+- Browsers are the thing responsible for translating the code that will be displayed. Each browser does this a little bit differently.
+
+
+HTML Notes:
+-HTML (Hypertext Markup Language) controls the structure of the content
+- The best HTML creates a logical and readable document without any styles.
+
+-To comment with html you use <!-- -->
+-index.html is a special filename and it is convention that every website's main page is named index.html
+
+CSS Notes:
+Rule-set:
+-selector: what you want to change
+-property: what part you want to change
+-value: is how you want to change it.
+An external style sheet has many advantages over inline styles:
+-Helps avoid duplication
+-Makes maintenance easier
+-Allows you to make a site-wide change in one place
